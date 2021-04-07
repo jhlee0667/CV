@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: jhlee0667@gmail.com
     #phone: 012 345 6789
-    website: jhlee0667.github.io/online-cv/ #do not add http://
+    website: jhlee0667.github.io/cv/ #do not add http://
     #linkedin: alandoe
     github: jhlee0667
     #telegram: # add your nickname without '@' sign
@@ -57,7 +57,7 @@ education:
           - Bullet point
     - degree: BSc in Physics
       university: Korea University, Korea
-      time: 2012.3 - 2017.8 <br> (include militery service)
+      time: 2012.3 - 2017.8 <br><br> (include militery service)
       details: |
         2013-2015 : militery service
           - Bullet point
