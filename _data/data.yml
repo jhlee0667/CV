@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Juhyeok Lee
     tagline: Graduate student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jhlee0667@gmail.com
@@ -61,8 +61,7 @@ education:
           - Bullet point
     - degree: BSc in Physics
       university: Korea University
-      time: 2012.3 - 2017.8
-      (include miltery service [2013-2015])
+      time: 2012.3 - 2017.8 (include miltery service [2013-2015])
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
