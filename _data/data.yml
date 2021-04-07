@@ -84,7 +84,7 @@ projects:
 
 publications:
     title: Publications
-    intro: 
+    intro: >
       (*: equal contributions)
     papers:
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
