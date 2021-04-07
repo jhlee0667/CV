@@ -64,18 +64,10 @@ education:
           - Bullet point
 experiences:
     - role: Graduate student
-      time: 2015 - Present
+      time: 2018.2 - Present
       company: KAIST, Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here (test)
           - Bullet point
           - Bullet point
 
@@ -83,8 +75,7 @@ projects:
     title: careers
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -113,14 +104,13 @@ publications:
     papers:
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
         link: "https://www.nature.com/articles/s41467-021-22204-1"
-        authors: Lee, J., Jeong, C. & Yang, Y.
+        authors: <b>J. Lee</b>, C. Jeong, and Y. Yang
         conference: Nature Communications 12, 1962 (2021).
 
-
-      - title: "Hund’s physics and the magnetic ground state of CrOX (X=Cl,Br)"
+      - title: Hund’s physics and the magnetic ground state of CrOX (X=Cl,Br)
         link: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.034409"
-        authors: Jang, S. W.*, Kiem, D. H*., Lee, J.*, Kang, Y.-G., Yoon, H. & Han, M. J.
-        conference: "Phys. Rev. Materials 5, 034409 (2021)."
+        authors: S. W. Jang*, D. H. Kiem*, <b>J. Lee*</b>, Y.-G. Kang, H. Yoon, and M. J. Han
+        conference: Phys. Rev. Materials 5, 034409 (2021).
 
 
 
