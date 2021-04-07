@@ -39,17 +39,13 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Research interests
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      test
+      
 education:
     - degree: Ph.D. Program in Physics
-      university: KAIST
+      university: KAIST, Korea
       time: 2018.2 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -60,20 +56,16 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Physics
-      university: Korea University
-      time: 2012.3 - 2017.8 (include miltery service [2013-2015])
+      university: Korea University, Korea
+      time: 2012.3 - 2017.8 (include militery service)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        2013-2015 : militery service
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Graduate student
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: KAIST, Korea
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -86,30 +78,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
-    title: Projects
+    title: careers
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -138,24 +109,20 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      test
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
+        link: "https://www.nature.com/articles/s41467-021-22204-1"
+        authors: Lee, J., Jeong, C. & Yang, Y.
+        conference: Nature Communications 12, 1962 (2021).
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Hund’s physics and the magnetic ground state of $\mathrm{CrO}X$ $(X=\text{Cl},\phantom{\rule{0.16em}{0ex}}\text{Br})$"
+        link: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.034409"
+        authors: Jang, S. W., Kiem, D. H., Lee, J., Kang, Y.-G., Yoon, H. & Han, M. J.
+        conference: "Phys. Rev. Materials 5, 034409 (2021)."
+
+
 
 skills:
     title: Skills &amp; Proficiency
