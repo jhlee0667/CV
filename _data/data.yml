@@ -109,7 +109,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      test
+      (*: equal contributions)
     papers:
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
         link: "https://www.nature.com/articles/s41467-021-22204-1"
@@ -117,9 +117,9 @@ publications:
         conference: Nature Communications 12, 1962 (2021).
 
 
-      - title: "Hund’s physics and the magnetic ground state of $\mathrm{CrO}X$ $(X=\text{Cl},\phantom{\rule{0.16em}{0ex}}\text{Br})$"
+      - title: "Hund’s physics and the magnetic ground state of CrOX (X=Cl,Br)"
         link: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.034409"
-        authors: Jang, S. W., Kiem, D. H., Lee, J., Kang, Y.-G., Yoon, H. & Han, M. J.
+        authors: Jang, S. W.*, Kiem, D. H*., Lee, J.*, Kang, Y.-G., Yoon, H. & Han, M. J.
         conference: "Phys. Rev. Materials 5, 034409 (2021)."
 
 
