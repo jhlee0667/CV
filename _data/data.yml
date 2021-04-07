@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Juhyeok Lee
-    tagline: Graduate student
+    tagline: Ph.D. program
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,7 +63,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Graduate student
+    - role: Integrated master's/doctoral program
       time: 2018.2 - Present
       company: KAIST, Korea
       details: |
