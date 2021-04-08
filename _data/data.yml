@@ -61,7 +61,7 @@ education:
       details: |
         2013-2015 : militery service
           - Bullet point
-          - Bullet point
+
 experiences:
     - role: Integrated master's/doctoral program
       time: 2018.2 - Present
@@ -69,17 +69,16 @@ experiences:
       details: |
         Describe your role here (test)
           - Bullet point
-          - Bullet point
+
 
 projects:
     title: careers
     intro: >
-      test You can list your side projects or open source libraries in this
-      section.
+      test Y
     assignments:
-      - title: Vtest
+      - title: test
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "test"
 
 
 publications:
