@@ -63,6 +63,7 @@ education:
           - Bullet point
 
 experiences:
+     title: Teaching experiences
     - role: Integrated master's/doctoral program
       time: 2018.2 - Present
       company: KAIST, Korea
@@ -72,7 +73,7 @@ experiences:
 
 
 projects:
-    title: careers
+    title: test
     intro: >
       test Y
     assignments:
