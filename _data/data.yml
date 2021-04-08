@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Research interests
     summary: |
-      Atomic electron tomography, Computational physics, Electron microscopy, Deep learning
+      Atomic electron tomography, Computational physics, Electron microscopy, Deep learning, statistical data analysis and algorithm development
       
 education:
     - degree: Ph.D. Program in Physics
@@ -69,6 +69,8 @@ experiences:
       details: |
         Describe your role here (test)
           - Bullet point
+          
+          
 
 
 projects:
