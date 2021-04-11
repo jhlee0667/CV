@@ -66,7 +66,22 @@ experiences:
         Describe your role here (test)
           - Bullet point
           
-          
+presentations:
+    title: Presentations
+    #intro: >
+    #  test Y
+    awards_title: Awards
+    awards_info: 
+      - title: test
+        tagline: 11
+      - title: LOTTE Foundation Fellowship, 2017
+    
+    presentations_title: Presentations
+    presentations_info: 
+      - title: test
+        tagline: 11
+      - title: LOTTE Foundation Fellowship, 2017
+
 
 
 projects:
