@@ -31,6 +31,32 @@
 
   </div><!--//item-->
   {% endfor %}
+  
+  <h4 class="section-subtitle">
+    {{ presentations.Teaching_Experiences_title }}
+  </h4>
+  
+  {% for experience in experiences.Teaching_Experiences %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ experience.role }}</h3>
+        <div class="time">{{ experience.time }}</div>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+    {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
+  {% endif %}
+
+  </div><!--//item-->
+  {% endfor %}
+  
 
 </section><!--//section-->
 {% endif %}
