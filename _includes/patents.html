@@ -16,7 +16,7 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for patents in patents.papers %}
+  {% for patents in patents.info %}
   <div class="item">
     {% if patents.link %}
       <li><a href="{{ patents.link }}">{{ patents.title }}</a></li>
@@ -24,7 +24,7 @@
       <li>{{ patents.title }}</li>
     {% endif %}
     <div class="patents-authors">{{ patents.authors }}</div>
-    <div class="patents-conference">{{ patents.conference }}</div>
+    <div class="patents-no_info">{{ patents.no_info }}</div>
   </div><!--//item-->
   {% endfor %}
 
