@@ -15,7 +15,7 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
+        <h4 class="job-title">{{ experience.role }}</h4>
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
@@ -37,24 +37,16 @@
   </h3>
   
   {% for experience in experiences.teaching_experiences_info %}
-  <div class="item">
 
-    <div class="meta">
+  <h3 class="job-title">{{ experience.role }}</h3>
+  <div class="time">{{ experience.time }}</div>
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
-      </div><!--//upper-row-->
-
-    </div><!--//meta-->
-
-    {% if experience.details %}
+  {% if experience.details %}
     <div class="details">
       {{ experience.details | markdownify }}
     </div><!--//details-->
   {% endif %}
 
-  </div><!--//item-->
   {% endfor %}
   
 
