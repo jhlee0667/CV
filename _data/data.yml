@@ -69,8 +69,24 @@ experiences:
           
     teaching_experiences_title: Teaching Experiences
     teaching_experiences_info:
-      - role: PH
-        time: 2019.3 - 2020.2
+      - role: TA, Modern Physics
+        time: 2021.3 - present
+      - role: TA, Special Topics in Physics (Neural Network for Physicists)
+        time: 2020.9 - 2021.2
+      - role: TA, Physics of Magnetism, graduated level
+        time: 2020.3 - 2020.8
+      - role: TA, Genenal Physics 1
+        time: 2019.9 - 2020.2
+      - role: TA, Solid State Physics 1
+        time: 2019.3 - 2019.8
+      - role: TA, Genenal Physics 2
+        time: 2018.9 - 2019.2
+      - role: TA, Genenal Physics 1
+        time: 2018.3 - 2018.8        
+        
+        
+        
+        
         
           
           
