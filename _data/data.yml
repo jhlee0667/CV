@@ -71,16 +71,25 @@ presentations:
     #intro: >
     #  test Y
     awards_title: Awards
-    awards_info: 
-      - title: test
-        tagline: Outstanding poster award, Korea Physical Society, 2019
-      - title: 
+    awards_info:
+      - title: Adventure MS/Ph.D. research program, KAIST College of Natural Sciences
+      - title: Outstanding poster award, 2019 Korea Physical Society FALL meeting
     
     presentations_title: Presentations
-    presentations_info: 
-      - title: test
-        tagline: 11
-      - title: LOTTE Foundation Fellowship, 2017
+    presentations_info:
+      - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Oral)
+        tagline: 2020 Korean society of microscopy Spring meeting, Korea
+      - title: Deep learning filter of tomograhic 3D reconstruction in atomic electron tomography (Poster)
+        tagline: 2020 Korea Physical Society Spring meeting, Korea
+      - title: First-principles study of van der Waals magnetic materials: CrOX (X = Cl, Br) bulk to monolayer (Poster)
+        tagline: The 22nd Asian Workshop on First-principles Eletronic Structure Calculations, Japan
+      - title: First-principles study of two-dimensional van der Waals magnetic materials: CrOCl and CrOBr (Poster)
+        tagline: 2019 Korea Physical Society Fall meeting, Korea         
+      - title: First-principles approaches to two-dimensional magnetic materials (Poster)
+        tagline: The 15th KIAS Electronic Structure Calculation Workshop, Korea
+      - title: Reexploring the magnetism of two-dimensional intrinsic magnetic materials, CrOX (X = Cl, Br) via first-principles calculations (Poster)
+        tagline: 2019 Korea Physical Society Spring meeting, Korea
+        
 
 
 
