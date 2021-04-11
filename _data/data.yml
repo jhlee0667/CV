@@ -95,6 +95,20 @@ publications:
         link: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.034409"
         authors: S. W. Jang*, D. H. Kiem*, <b>J. Lee*</b>, Y.-G. Kang, H. Yoon, and M. J. Han
         conference: Phys. Rev. Materials 5, 034409 (2021).
+        
+        
+        
+publications:
+    title: Patents
+    intro: |
+    papers:
+      - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
+        authors: Y. Yang, <b>J. Lee</b>, and C. Jeong
+        conference: US, 17/132,762 (2020) 
+
+      - title: Apparatus for determining 3-dimensional atomic level structure and method thereof
+        authors: Y. Yang, <b>J. Lee</b>, and C. Jeong
+        conference: Korea, Application No. 10-2020-0176633 (2020)
 
 
 
