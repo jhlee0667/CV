@@ -58,13 +58,23 @@ education:
         2013-2015 : militery service
           - Bullet point
 
+
+
 experiences:
-    - role: Integrated master's/doctoral program
-      time: 2018.2 - Present
-      company: KAIST, Korea
+    - role: Adventure research program for MS/Ph.D. students, KAIST College of Natural Sciences, Korea
+      time: 2019.3 - 2020.2
+      company: Machine Learning Title creator 
       details: |
         Describe your role here (test)
           - Bullet point
+          
+    - teaching_experiences_title: Teaching Experiences
+    - teaching_experiences:
+        - role: PH
+          time: 2019.3 - 2020.2
+        
+          
+          
           
 presentations:
     title: Presentations
