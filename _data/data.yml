@@ -61,13 +61,14 @@ education:
 
 
 experiences:
-    - role: Adventure research program for MS/Ph.D. students
-      time: 2019.3 - 2020.2
-      company:  KAIST College of Natural Sciences, Korea
-      details: Machine Learning Title Creator 
+    experiences_info:
+        - role: Adventure research program for MS/Ph.D. students
+        time: 2019.3 - 2020.2
+        company:  KAIST College of Natural Sciences, Korea
+        details: Machine Learning Title Creator 
           
     teaching_experiences_title: Teaching Experiences
-    teaching_experiences:
+    teaching_experiences_info:
         - role: PH
           time: 2019.3 - 2020.2
         
