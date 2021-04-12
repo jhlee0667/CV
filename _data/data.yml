@@ -98,6 +98,7 @@ presentations:
     awards_title: Awards
     awards_info:
       - title: Adventure research program for MS/Ph.D. students, KAIST College of Natural Sciences
+      - title: Presentation award, The 12nd BK21+ Young Physicists Workshop, KAIST
       - title: Outstanding poster award, 2019 Korea Physical Society Fall meeting
     
     presentations_title: Presentations
@@ -106,6 +107,8 @@ presentations:
         tagline: 2020 Korean Society of Microscopy Fall meeting, Korea
       - title: Deep learning filter of tomograhic 3D reconstruction in atomic electron tomography (Poster)
         tagline: 2020 Korea Physical Society Spring meeting, Korea
+      - title: Deep learning noise filter of 3D reconstruction in tomography (Poster)
+        tagline: The 12nd BK21+ Young Physicists Workshop, Korea        
       - title: First-principles study of van der Waals magnetic materials&#58; CrOX (X &#61; Cl, Br) bulk to monolayer (Poster)
         tagline: The 22nd Asian Workshop on First-principles Eletronic Structure Calculations, Japan
       - title: First-principles study of two-dimensional van der Waals magnetic materials&#58; CrOCl and CrOBr (Poster)
