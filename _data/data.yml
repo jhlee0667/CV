@@ -97,12 +97,15 @@ presentations:
     #  test Y
     awards_title: Awards
     awards_info:
+      - title: Outstanding poster award, 2021 Korean Society of Microscopy Spring meeting
       - title: Adventure research program for MS/Ph.D. students, KAIST College of Natural Sciences
       - title: Presentation award, The 12nd BK21+ Young Physicists Workshop, KAIST
       - title: Outstanding poster award, 2019 Korea Physical Society Fall meeting
     
     presentations_title: Presentations
     presentations_info:
+      - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Poster)
+        tagline: 2021 Korean Society of Microscopy Spring meeting, Korea
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Oral)
         tagline: 2020 Korean Society of Microscopy Fall meeting, Korea
       - title: Deep learning filter of tomograhic 3D reconstruction in atomic electron tomography (Poster)
