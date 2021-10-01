@@ -70,7 +70,7 @@ experiences:
     teaching_experiences_title: Teaching Experiences
     teaching_experiences_info:
       - role: TA, Modern Physics
-        time: 2021.3 - present
+        time: 2021.3 - 2021.8
       - role: TA, Special Topics in Physics (Neural Network for Physicists)
         time: 2020.9 - 2021.2
       - role: TA, Physics of Magnetism, graduated level
@@ -143,6 +143,11 @@ publications:
     intro: >
         (*: equal contributions)
     papers:
+      - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties
+        link: "https://arxiv.org/abs/2109.14843"
+        authors: <b>J. Lee</b>, C. Jeong, and Y. Yang
+        conference: submitted   
+    
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
         link: "https://www.nature.com/articles/s41467-021-22204-1"
         authors: <b>J. Lee</b>, C. Jeong, and Y. Yang
