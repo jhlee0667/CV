@@ -148,7 +148,7 @@ publications:
     papers:
       - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties
         link: "https://arxiv.org/abs/2109.14843"
-        authors: <b>J. Lee</b>, C. Jeong, and Y. Yang
+        authors: <b>J. Lee</b>, C. Jeong, T. Lee, S. Ryu, and Y. Yang
         conference: Nano Letters (accepted)
 
       - title: A measure of active interfaces in supported catalysts for high-temperature reactions
@@ -156,7 +156,6 @@ publications:
         authors: Siwon Lee, Hyunwoo Ha, Kyung Taek Bae, Seunghyun Kim, Hyuk Choi, <b>Juhyeok Lee</b>, Jun Hyuk Kim, Jongsu Seo, Jin Seok Choi, Yong-Ryun Jo, Bong-JoongKim, Yongsoo Yang, Kang Taek Lee, Hyun You Kim, WooChul Jung
         conference: Chem 8, 1-21 (2022).
         
-    
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
         link: "https://www.nature.com/articles/s41467-021-22204-1"
         authors: <b>J. Lee</b>, C. Jeong, and Y. Yang
