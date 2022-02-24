@@ -65,10 +65,16 @@ experiences:
       - role: Adventure research program for MS/Ph.D. students
         time: 2019.3 - 2020.2
         company: KAIST College of Natural Sciences, Korea
-        details: Topic&#58; Machine Learning Title Creator 
+        details: Topic&#58; Machine Learning Title Creator
+      - role: Qiskit hackathon korea 2022
+        time: 2022.2.7 - 2022.2.10
+        company: IBM-qiskit, QCenter
+        details: Topic&#58; Quantum Machine Learning Using Hybrid Quantum Neural Network        
           
     teaching_experiences_title: Teaching Experiences
     teaching_experiences_info:
+      - role: TA, Advanced Solid State Physics 1, graduated level 
+        time: 2022.3 - present
       - role: TA, Modern Physics
         time: 2021.3 - 2021.8
       - role: TA, Special Topics in Physics (Neural Network for Physicists)
