@@ -104,6 +104,7 @@ presentations:
     #  test Y
     awards_title: Awards
     awards_info:
+      - title: Outstanding oral presentation award, 2022 Korean Society of Microscopy Spring meeting
       - title: Best poster presentation award, ICAMD2021
       - title: Outstanding poster award, 2021 Korean Society of Microscopy Spring meeting
       - title: Adventure research program for MS/Ph.D. students, KAIST College of Natural Sciences
@@ -112,6 +113,10 @@ presentations:
     
     presentations_title: Presentations
     presentations_info:
+      - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Oral)
+        tagline: Nano Korea 2022, Korea
+      - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties (Oral)
+        tagline: 2022 Korean Society of Microscopy Spring meeting, Korea
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Poster)
         tagline: The 12th International Conference on Advanced Materials and Devices (ICAMD2021), Korea    
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Poster)
