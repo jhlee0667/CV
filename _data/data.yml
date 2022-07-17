@@ -158,6 +158,11 @@ publications:
     intro: >
         (*: equal contributions)
     papers:
+      - title: Revealing 3-dimensional core-shell interface structures at the single-atom level
+        link: "https://arxiv.org/abs/2207.06677"
+        authors: H. Jo, D. H. Wi, T. Lee, Y. Kwon, C. Jeong, <b>J. Lee</b>, H. Baik, A. J. Pattison, W. Theis, C. Ophus, P. Ercius, Y. Lee, S. Ryu, S. W. Han, Y. Yang
+        conference: arXiv:2207.06677 [cond-mat.mtrl-sci]
+    
       - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties
         link: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03773"
         authors: <b>J. Lee</b>, C. Jeong, T. Lee, S. Ryu, and Y. Yang
@@ -165,7 +170,7 @@ publications:
 
       - title: A measure of active interfaces in supported catalysts for high-temperature reactions
         link: "https://www.sciencedirect.com/science/article/pii/S2451929421005957"
-        authors: Siwon Lee, Hyunwoo Ha, Kyung Taek Bae, Seunghyun Kim, Hyuk Choi, <b>Juhyeok Lee</b>, Jun Hyuk Kim, Jongsu Seo, Jin Seok Choi, Yong-Ryun Jo, Bong-Joong Kim, Yongsoo Yang, Kang Taek Lee, Hyun You Kim, WooChul Jung
+        authors: S. Lee, H. Ha, K. T. Bae, S. Kim, H. Choi, <b>J. Lee</b>, J. H. Kim, J. Seo, J. S. Choi, Y. Jo, B. Kim, Y. Yang, K. T. Lee, H. Y. Kim, W. Jung
         conference: Chem 8, 1-21 (2022).
         
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
