@@ -104,6 +104,7 @@ presentations:
     #  test Y
     awards_title: Awards
     awards_info:
+      - title: MSA Student Poster Awards, M&M 2022
       - title: Outstanding oral presentation award, 2022 Korean Society of Microscopy Spring meeting
       - title: Best poster presentation award, ICAMD2021
       - title: Outstanding poster award, 2021 Korean Society of Microscopy Spring meeting
@@ -113,6 +114,8 @@ presentations:
     
     presentations_title: Presentations
     presentations_info:
+      - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Poster)
+        tagline: M&M 2022 (Microscopy and Microanalysis), Portland, Oregon, U.S.
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Oral)
         tagline: Nano Korea 2022, Korea
       - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties (Oral)
