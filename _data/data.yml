@@ -74,8 +74,10 @@ experiences:
           
     teaching_experiences_title: Teaching Experiences
     teaching_experiences_info:
+      - role: TA, Advanced Solid State Physics 2, graduated level 
+        time: 2022.9 - present
       - role: TA, Advanced Solid State Physics 1, graduated level 
-        time: 2022.3 - present
+        time: 2022.3 - 2022.8
       - role: TA, Modern Physics
         time: 2021.3 - 2021.8
       - role: TA, Special Topics in Physics (Neural Network for Physicists)
