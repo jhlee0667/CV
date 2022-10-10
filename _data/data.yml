@@ -168,7 +168,7 @@ publications:
     papers:
       - title: Direct strain correlations at the single-atom level in three-dimensional core-shell interface structures
         link: "https://www.nature.com/articles/s41467-022-33236-6"
-        authors: H. Jo, D. H. Wi, T. Lee, Y. Kwon, C. Jeong, <b>J. Lee</b>, H. Baik, A. J. Pattison, W. Theis, C. Ophus, P. Ercius, Y. Lee, S. Ryu, S. W. Han, Y. Yang
+        authors: H. Jo, D. H. Wi, T. Lee, Y. Kwon, C. Jeong, <b>J. Lee</b>, H. Baik, A. J. Pattison, W. Theis, C. Ophus, P. Ercius, Y. Lee, S. Ryu, S. W. Han, and Y. Yang
         conference: Nature Communications 13, 5957 (2022).
     
       - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties
@@ -178,7 +178,7 @@ publications:
 
       - title: A measure of active interfaces in supported catalysts for high-temperature reactions
         link: "https://www.sciencedirect.com/science/article/pii/S2451929421005957"
-        authors: S. Lee, H. Ha, K. T. Bae, S. Kim, H. Choi, <b>J. Lee</b>, J. H. Kim, J. Seo, J. S. Choi, Y. Jo, B. Kim, Y. Yang, K. T. Lee, H. Y. Kim, W. Jung
+        authors: S. Lee, H. Ha, K. T. Bae, S. Kim, H. Choi, <b>J. Lee</b>, J. H. Kim, J. Seo, J. S. Choi, Y. Jo, B. Kim, Y. Yang, K. T. Lee, H. Y. Kim, and W. Jung
         conference: Chem 8, 1-21 (2022).
         
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography
