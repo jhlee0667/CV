@@ -166,10 +166,10 @@ publications:
     intro: >
         (*: equal contributions)
     papers:
-      - title: Revealing 3-dimensional core-shell interface structures at the single-atom level
-        link: "https://arxiv.org/abs/2207.06677"
+      - title: Direct strain correlations at the single-atom level in three-dimensional core-shell interface structures
+        link: "https://www.nature.com/articles/s41467-022-33236-6"
         authors: H. Jo, D. H. Wi, T. Lee, Y. Kwon, C. Jeong, <b>J. Lee</b>, H. Baik, A. J. Pattison, W. Theis, C. Ophus, P. Ercius, Y. Lee, S. Ryu, S. W. Han, Y. Yang
-        conference: arXiv:2207.06677 [cond-mat.mtrl-sci]
+        conference: Nature Communications 13, 5957 (2022).
     
       - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties
         link: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c03773"
