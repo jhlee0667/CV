@@ -166,6 +166,11 @@ publications:
     intro: >
         (*: equal contributions)
     papers:
+      - title: Multislice Electron Tomography using 4D-STEM
+        link: "https://arxiv.org/abs/2210.12636"
+        authors: <b>J. Lee</b>, M. Lee, Y. K. Park, C. Ophus, and Y. Yang,
+        conference: arXiv:2210.12636. (submitted)  
+    
       - title: Direct strain correlations at the single-atom level in three-dimensional core-shell interface structures
         link: "https://www.nature.com/articles/s41467-022-33236-6"
         authors: H. Jo, D. H. Wi, T. Lee, Y. Kwon, C. Jeong, <b>J. Lee</b>, H. Baik, A. J. Pattison, W. Theis, C. Ophus, P. Ercius, Y. Lee, S. Ryu, S. W. Han, and Y. Yang
