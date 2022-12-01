@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Juhyeok Lee
-    tagline: Ph.D. student
+    tagline: Ph.D. candidate
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -116,8 +116,10 @@ presentations:
     
     presentations_title: Presentations
     presentations_info:
-      - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Oral)
-        tagline: APPC15 (The 15th Asia Pacific Physics Conference), Korea
+      - title: Three-dimensional atomic resolution imaging via multislice electron tomography using 4D-STEM (Oral)
+        tagline: 2022 Korean Society of Microscopy Fall meeting, Korea
+      - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties (Oral)
+        tagline: 2022 Korea Physical Society Fall meeting, Korea
       - title: Single-atom level determination of 3D surface atomic structure via neural network-assisted atomic electron tomography (Poster)
         tagline: M&M 2022 (Microscopy and Microanalysis), Portland, Oregon, U.S.
       - title: Single-atom level determination of 3-dimensional surface atomic structure via neural network-assisted atomic electron tomography (Oral)
