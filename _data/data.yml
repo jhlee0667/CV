@@ -115,7 +115,9 @@ presentations:
       - title: Outstanding poster award, 2019 Korea Physical Society Fall meeting
     
     presentations_title: Presentations
-    presentations_info:
+    presentations_info: 
+      - title: Observing 3D surface/interface atomic structure of 0D nanomaterials (Invited talk)
+        tagline: KAIX Future of Physics Workshop, KAIST, Korea    
       - title: Three-dimensional atomic resolution imaging via multislice electron tomography using 4D-STEM (Oral)
         tagline: 2022 Korean Society of Microscopy Fall meeting, Korea
       - title: Direct observation of three-dimensional atomic structure of twinned metallic nanoparticles and their catalytic properties (Oral)
