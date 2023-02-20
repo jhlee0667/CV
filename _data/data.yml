@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Juhyeok Lee
-    tagline: Ph.D. candidate
+    tagline: Postdoc 
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -157,6 +157,8 @@ projects:
     #intro: >
     #  test Y
     assignments:
+      - title: Jung H.Shin Scholarship, KAIST, 2023
+      - title: Samsung Humantech Paper Award Bronze Prize, 2023
       - title: Pre-doctoral Fellow of Physics at KAIST, 2022
       - title: Early graduation ('with great honor/summa cum laude'), Korea University, 2017
       - title: LOTTE Foundation Fellowship, 2017
