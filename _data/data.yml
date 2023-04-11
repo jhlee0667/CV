@@ -208,6 +208,10 @@ patents:
     title: Patents
     intro: >
     info:
+      - title: 3D atomic structure determination method and a 3D atomic structure determination device using 4D-STEM data
+        authors: Y. Yang, YK. Park, M. Lee , and <b>J. Lee</b>
+        no_info: Korea, Application No. 10-2023-0046346 (2023)
+    
       - title: Apparatus for determining 3D structure of coalesced nanopaticles and method thereof
         authors: Y. Yang, <b>J. Lee</b>, and C. Jeong
         no_info: Korea, Application No. 10-2022-0039184 (2022)
