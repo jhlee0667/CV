@@ -15,7 +15,7 @@ sidebar:
     email: jhlee0667@gmail.com
     #phone: 012 345 6789
     website: jhlee0667.github.io/cv/ #do not add http://
-    #linkedin: alandoe
+    linkedin: jhlee0667
     github: jhlee0667
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -93,10 +93,7 @@ experiences:
       - role: TA, Genenal Physics 1
         time: 2018.3 - 2018.8        
         
-        
-        
-        
-        
+
           
           
           
@@ -209,7 +206,7 @@ patents:
     intro: >
     info:
       - title: 3D atomic structure determination method and a 3D atomic structure determination device using 4D-STEM data
-        authors: Y. Yang, YK. Park, M. Lee , and <b>J. Lee</b>
+        authors: Y. Yang, YK. Park, M. Lee, and <b>J. Lee</b>
         no_info: Korea, Application No. 10-2023-0046346 (2023)
     
       - title: Apparatus for determining 3D structure of coalesced nanopaticles and method thereof
