@@ -171,6 +171,11 @@ publications:
     intro: >
         (*: equal contributions)
     papers:
+      - title: Experimental Observation of Three-Dimensional Vortex Ordering in Ferroelectric Nanoparticles
+        link: "https://arxiv.org/abs/2305.04188"
+        authors: C. Jeong, <b>J. Lee</b>, H. Jo, J. Oh, H. Baik, K. Ko, J. Son, S. Choi, S. Prosandeev, L. Bellaiche, and Y. Yang
+        conference: arXiv:2305.04188.
+    
       - title: Multislice Electron Tomography using 4D-STEM
         link: "https://arxiv.org/abs/2210.12636"
         authors: <b>J. Lee</b>, M. Lee, Y. K. Park, C. Ophus, and Y. Yang
