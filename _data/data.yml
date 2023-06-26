@@ -113,6 +113,8 @@ presentations:
     
     presentations_title: Presentations
     presentations_info:
+      - title: Advanced 3D Imaging via Multislice Electron Tomography using 4D-STEM (Oral)
+        tagline: IUMAS8, Banff, AB, Canada
       - title: Multislice Electron Tomography using 4D-STEM&#58; A High-Precision Approach to 3D Imaging (Invited talk)
         tagline: 2023 Korea Physical Society Spring meeting, Korea
       - title: Observing 3D surface/interface atomic structure of 0D nanomaterials (Invited talk)
