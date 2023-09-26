@@ -62,6 +62,14 @@ education:
 
 experiences:
     experiences_info:
+      - role: Postdoc researcher
+        time: 2023.10.1 - present
+        company: Lawrence Berkeley National Laboratory
+    
+      - role: Postdoc researcher
+        time: 2023.3.1 - 2023.09.30
+        company: KAIST
+    
       - role: Qiskit hackathon korea 2022
         time: 2022.2.7 - 2022.2.10
         company: IBM-qiskit, QCenter
