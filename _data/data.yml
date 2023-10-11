@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Juhyeok Lee
-    tagline: Postdoc 
+    tagline: Postdoctoral researcher 
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,13 +62,13 @@ education:
 
 experiences:
     experiences_info:
-      - role: Postdoc researcher
+      - role: Postdoctoral researcher
         time: 2023.10.1 - present
-        company: Lawrence Berkeley National Laboratory
+        company: Lawrence Berkeley National Laboratory (Advisors: Micheal Whittaker & Mary Scott)
     
-      - role: Postdoc researcher
+      - role: Postdoctoral researcher
         time: 2023.3.1 - 2023.09.30
-        company: KAIST
+        company: KAIST (Advisor: Yongsoo Yang)
     
       - role: Qiskit hackathon korea 2022
         time: 2022.2.7 - 2022.2.10
