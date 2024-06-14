@@ -186,10 +186,10 @@ publications:
     intro: >
         (*: equal contributions)
     papers:
-      - title: Experimental Observation of Three-Dimensional Vortex Ordering in Ferroelectric Nanoparticles
-        link: "https://arxiv.org/abs/2305.04188"
+      - title: Revealing the three-dimensional arrangement of polar topology in nanoparticles
+        link: "https://doi.org/10.1038/s41467-024-48082-x"
         authors: C. Jeong, <b>J. Lee</b>, H. Jo, J. Oh, H. Baik, K. Ko, J. Son, S. Choi, S. Prosandeev, L. Bellaiche, and Y. Yang
-        conference: arXiv:2305.04188.
+        conference: Nature Communications 15, 3887 (2024).
     
       - title: Multislice Electron Tomography Using Four-Dimensional Scanning Transmission Electron Microscopy
         link: "https://doi.org/10.1103/PhysRevApplied.19.054062"
