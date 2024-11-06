@@ -184,8 +184,13 @@ projects:
 publications:
     title: Publications
     intro: >
-        (*: equal contributions)
+        (&dagger;: equal contributions)
     papers:
+      - title: Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts
+        link: "https://arxiv.org/abs/2411.01727"
+        authors: C. Jeong&dagger;, <b>J. Lee</b>&dagger;, H. Jo&dagger;, S. Lee, K. Lee, C. Ophus, P. Ercius, E. Cho, and Y. Yang
+        conference: arXiv:2411.01727
+
       - title: Revealing the three-dimensional arrangement of polar topology in nanoparticles
         link: "https://doi.org/10.1038/s41467-024-48082-x"
         authors: C. Jeong, <b>J. Lee</b>, H. Jo, J. Oh, H. Baik, K. Ko, J. Son, S. Choi, S. Prosandeev, L. Bellaiche, and Y. Yang
@@ -218,7 +223,7 @@ publications:
 
       - title: Hund’s physics and the magnetic ground state of CrOX (X=Cl,Br)
         link: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.034409"
-        authors: S. W. Jang*, D. H. Kiem*, <b>J. Lee*</b>, Y.-G. Kang, H. Yoon, and M. J. Han
+        authors: S. W. Jang&dagger;, D. H. Kiem&dagger;, <b>J. Lee</b>&dagger;, Y.-G. Kang, H. Yoon, and M. J. Han
         conference: Phys. Rev. Materials 5, 034409 (2021).
         
         
